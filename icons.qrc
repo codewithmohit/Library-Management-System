@@ -1,0 +1,11 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource>
+        <file>icons/Time-Today-icon.png</file>
+        <file>icons/Users-icon.png</file>
+        <file>icons/settings-icon.png</file>
+        <file>icons/6946924_preview.png</file>
+        <file>icons/rcetfrilbsx.jpg</file>
+        <file>icons/user.png</file>
+    </qresource>
+</RCC>
